@@ -1,6 +1,7 @@
 // Google Analytics
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-12346486-7']);
+_gaq.push(['_setDomainName', 'octohost.io']);
 _gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
